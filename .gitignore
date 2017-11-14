@@ -3,3 +3,4 @@ datasets/titanic/test.csv
 datasets/titanic/train.csv
 datasets/test.csv
 datasets/train.csv
+.ipynb_checkpoints/titanic-checkpoint.ipynb
