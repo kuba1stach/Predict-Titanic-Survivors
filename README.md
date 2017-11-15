@@ -1,5 +1,6 @@
-# Predict-Titanic-Survivors
+# Predict-Titanic-Survivors - Kaggle Competition
 
+## Work in progress - first score equal to 0.75 
 
 Dataset contains information about Titanic's passengers. 
 It contains information about 1309 passengers, each one is described by 12 features.
